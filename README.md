@@ -1,5 +1,5 @@
 # jinux_log
 
 
-template frome :
+template from :
 https://startbootstrap.com/template-overviews/simple-sidebar/
