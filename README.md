@@ -1,4 +1,4 @@
-# jinux_log
+# jinuxzett.github.io
 
 
 template from :
